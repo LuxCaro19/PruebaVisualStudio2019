@@ -23,6 +23,8 @@ namespace Item_1_Ejerc_1
             emp.add_lcaro("1-7", "Unimarc", 540, DateTime.Parse("21/02/2002"));
             emp.add_lcaro("1-8", "shaa", 45, DateTime.Parse("23/02/2021"));
 
+            //jajajaj
+
 
 
             Console.WriteLine("---------------EJERCICIO 1----------------");
