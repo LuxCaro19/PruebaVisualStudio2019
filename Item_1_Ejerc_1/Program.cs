@@ -21,6 +21,7 @@ namespace Item_1_Ejerc_1
             emp.add_lcaro("1-5", "Adidas", 11540, DateTime.Parse("20/03/1984"));
             emp.add_lcaro("1-6", "Venta de utiles", 33, DateTime.Parse("13/08/2008"));
             emp.add_lcaro("1-7", "Unimarc", 540, DateTime.Parse("21/02/2002"));
+            emp.add_lcaro("1-8", "shaa", 45, DateTime.Parse("23/02/2021"));
 
 
 
